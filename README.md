@@ -1,4 +1,4 @@
-# 📊 Projet de Statistique sous R — ENSAE Dakar (2024)
+# 📊 Projet de Statistique sous R, ENSAE Dakar (2024)
 
 > Travaux pratiques et projet réalisés dans le cadre du cours de **Statistique sous R** à l'École Nationale de la Statistique et de l'Analyse Économique Pierre Ndiaye (ENSAE Dakar), année académique 2024.
 
